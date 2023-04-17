@@ -13,7 +13,7 @@ So when we use this mod to play, the "weakest" player should be using the Deity 
 ## Difficulty Modifiers
 | Difficulty  | Science / Culture / Faith Bonus | Production / Gold Bonus | Bonus Settlers / Builders | Bonus Scouts | Barbarian Camp Gold |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Owen  | +10000%  | +10000%  | 500,000 | 50  | 30 |
+| Owen  | +10000%  | +10000%  | 500,000 | 50  | 10,030 |
 | Immortal  | +16%  | +2%  | 0  | 1  | 30 |
 | Emperor  | +8%  | +1%  | 0  | 0  | 30 |
 | King  | +0%  | +0%  | 0  | 0  | 30 |
