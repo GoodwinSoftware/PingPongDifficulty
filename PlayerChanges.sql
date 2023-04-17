@@ -1,6 +1,6 @@
 -- barb gold change (not working)
 -- UPDATE Improvements SET DispersalGold=5 WHERE ImprovementType="IMPROVEMENT_BARBARIAN_CAMP";
--- UPDATE ModifierArguments SET Extra="+5", SecondExtra="DIFFICULTY_DEITY" WHERE Name="Amount" AND ModifierId="BARBARIAN_CAMP_GOLD_SCALING";
+UPDATE ModifierArguments SET Extra="+10000", SecondExtra="DIFFICULTY_DEITY" WHERE Name="Amount" AND ModifierId="BARBARIAN_CAMP_GOLD_SCALING";
 -- UPDATE ModifierArguments SET Extra="+5" WHERE Name="Amount" AND ModifierId="BARBARIAN_CAMP_GOLD_SCALING";
 
 
